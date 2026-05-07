@@ -162,7 +162,7 @@ Public source availability means you can use the code under the terms of the cor
 
 ## Built by
 
-Mafia Labs is founded by **Alex DC**, creator of **La Mafia IA**, a Spanish AI newsletter and community focused on practical AI for entrepreneurs, creators and operators.
+Mafia Labs is co-founded by **Alex DC**, creator of **La Mafia IA**, a Spanish AI newsletter and community focused on practical AI for entrepreneurs, creators and operators.
 
 [GitHub](https://github.com/alexdcd) · [La Mafia IA](https://mafiaia.com) · [Newsletter](https://aimafia.substack.com) · [Memm](https://memm.dev)
 
