@@ -104,7 +104,7 @@ Our focus areas:
 AI-native SaaS          Open-source AI systems     Context engineering
 Agentic workflows       Personal memory            Developer tools
 Automation              Cloud infrastructure       Data-driven products
-Creator tools           Solo businesses            Lean teams
+Creator tools           AI Data Pipelines          Lean teams
 </pre>
 
 ---
