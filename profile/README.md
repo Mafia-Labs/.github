@@ -165,7 +165,7 @@ Public source availability means you can use the code under the terms of the cor
 
 ## Built by
 
-Mafia Labs is founded by **Alex DC**, a builder and entrepreneur focused on creating high-leverage systems and practical AI infrastructure.
+Mafia Labs is co-founded by **Alex DC**, a builder and entrepreneur focused on creating high-leverage systems and practical AI infrastructure.
 
 [GitHub](https://github.com/alexdcd) · [La Mafia IA](https://mafiaia.com) · [Newsletter](https://aimafia.substack.com) · [Memm](https://memm.dev)
 
