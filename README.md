@@ -14,9 +14,9 @@
 
 ## What is Mafia Labs?
 
-**Mafia Labs** is an AI-native software company building products, systems and infrastructure for entrepreneurs, creators, developers and lean teams.
+**Mafia Labs** is an AI-native software company shipping products, systems and infrastructure for entrepreneurs, creators, developers and lean teams.
 
-We design, develop and ship software, SaaS products, AI systems, automation tools and scalable technology platforms.
+We turn software, AI systems, automation tools and scalable platforms into practical products for high-leverage builders.
 
 Our work combines:
 
@@ -149,6 +149,14 @@ The opportunity is to reduce coordination costs and amplify capable builders.
 ### 4. Open systems compound faster
 
 Accessible code, transparent workflows and open technical communities create better long-term products.
+
+---
+
+## Licensing
+
+Each repository, product and project is governed by its own license, notices and applicable agreements.
+
+Public source availability means you can use the code under the terms of the corresponding license. It does not imply rights beyond those expressly granted there.
 
 ---
 
