@@ -122,6 +122,7 @@ It is how modern technical communities learn, improve and compound together.
 Featured repositories:
 
 - [`Mafia-Claude-Skills`](https://github.com/alexdcd/Mafia-Claude-Skills) — practical Claude, Cursor and Codex skills for builders.
+- [`Memm`](https://memm.dev) — a native intelligence layer for AI. *(Source code will be published once stable after the beta phase).*
 - More projects coming soon.
 
 ---
