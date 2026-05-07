@@ -2,28 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=220&section=header&text=Mafia%20Labs&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-native%20products%20for%20builders,%20entrepreneurs%20and%20lean%20teams&descAlignY=58&descSize=18" />
 </p>
 
-<p align="center">
-  <strong>We build AI-native tools, systems and products for people who want leverage — not noise.</strong>
-</p>
-
-<p align="center">
-  <a href="https://mafiaia.com">Website</a> ·
-  <a href="https://memm.dev">Memm</a> ·
-  <a href="https://aimafia.substack.com">Newsletter</a> ·
-  <a href="https://github.com/alexdcd/Mafia-Claude-Skills">Open Source</a>
-</p>
-
-<br />
-
 <div align="center">
-
-# Mafia Labs
 
 ### Shipping AI-native software for entrepreneurs and open-source builders.
 
 **AI-native software, open-source systems and practical infrastructure for high-leverage builders.**
 
-[Website](https://mafiaia.com) · [Memm](https://memm.dev) · [Newsletter](https://aimafia.substack.com) · [Open Source](https://github.com/alexdcd/Mafia-Claude-Skills)
+[Mafia IA Hub](https://mafiaia.com) · [Memm](https://memm.dev) · [Open Source](https://github.com/alexdcd/Mafia-Claude-Skills)
 
 </div>
 
