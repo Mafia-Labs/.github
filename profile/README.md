@@ -60,12 +60,12 @@ Because they compound better.
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>☠️ La Mafia IA</h3>
+      <h3>🛠️ AI Tools Hub</h3>
       <p>
-        A Spanish AI community and newsletter for entrepreneurs who want useful, practical and business-focused AI signal.
+        A curated directory of advanced AI tools, frameworks and resources designed to accelerate execution for high-leverage entrepreneurs and professionals.
       </p>
       <p>
-        <a href="https://mafiaia.com"><strong>Visit La Mafia IA →</strong></a>
+        <a href="https://mafiaia.com"><strong>Explore Tools →</strong></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -162,7 +162,7 @@ Public source availability means you can use the code under the terms of the cor
 
 ## Built by
 
-Mafia Labs is co-founded by **Alex DC**, creator of **La Mafia IA**, a Spanish AI newsletter and community focused on practical AI for entrepreneurs, creators and operators.
+Mafia Labs is founded by **Alex DC**, a builder and entrepreneur focused on creating high-leverage systems and practical AI infrastructure.
 
 [GitHub](https://github.com/alexdcd) · [La Mafia IA](https://mafiaia.com) · [Newsletter](https://aimafia.substack.com) · [Memm](https://memm.dev)
 
